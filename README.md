@@ -1,4 +1,4 @@
 # testrepo-
 Coursera course 
 
-This is a repository relating to coursera course. 
+This is a repository for learning how to use Github...
